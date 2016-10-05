@@ -1,0 +1,16 @@
+D:\F#\byExample\byExample\byExample\bin\Debug\byExample.exe.config
+D:\F#\byExample\byExample\byExample\bin\Debug\byExample.XML
+D:\F#\byExample\byExample\byExample\bin\Debug\byExample.exe
+D:\F#\byExample\byExample\byExample\bin\Debug\byExample.pdb
+D:\F#\byExample\byExample\byExample\bin\Debug\FSharp.Core.dll
+D:\F#\byExample\byExample\byExample\bin\Debug\FSharp.Core.xml
+D:\F#\byExample\byExample\byExample\obj\Debug\byExample.exe
+D:\F#\byExample\byExample\byExample\obj\Debug\byExample.pdb
+D:\F#\byExample\byExample\byExample\obj\Debug\byExample.fsproj.byExample.exe.config
+D:\F#\byExample\byExample\byExample\bin\Debug\FSharp.Data.TypeProviders.dll
+D:\F#\byExample\byExample\byExample\bin\Debug\MongoDB.Bson.dll
+D:\F#\byExample\byExample\byExample\bin\Debug\MongoDB.Driver.Core.dll
+D:\F#\byExample\byExample\byExample\bin\Debug\MongoDB.Driver.dll
+D:\F#\byExample\byExample\byExample\bin\Debug\MongoDB.Bson.xml
+D:\F#\byExample\byExample\byExample\bin\Debug\MongoDB.Driver.xml
+D:\F#\byExample\byExample\byExample\bin\Debug\MongoDB.Driver.Core.xml

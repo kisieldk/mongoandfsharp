@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>byExample</name></assembly>
+<members>
+<member name="P:Program.conStrin">
+<summary>
+Connecting to MongoDb example
+</summary>
+</member>
+</members>
+</doc>
